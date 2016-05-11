@@ -1,3 +1,4 @@
+Add extension to php.ini
 
     [apcu]
     extension="C:\xampp\php\ext\php_apcu.dll"
