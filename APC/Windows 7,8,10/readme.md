@@ -1,5 +1,8 @@
 Add extension to php.ini
 
+	[apc]
+	extension=php_apc.dll
+
     [apcu]
     extension="C:\xampp\php\ext\php_apcu.dll"
     apc.enabled=1
